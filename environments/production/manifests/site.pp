@@ -1,4 +1,4 @@
-node 'ip-172-31-71-184' {
+node 'ip-172-31-71-184.ec2.internal' {
   include mysql_server
 }
 
